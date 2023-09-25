@@ -2,7 +2,7 @@
 - 👀 I’m interested in crypto, web3, DeFi and nfts
 - 🌱 I’m currently learning smart contract security
 - 💞️ I’m looking to collaborate on cool DeFi applications and protocols
-- 📫 How to reach me ...
+- 📫 You can reach me [here](https://linqapp.com/tanto_defi)
 
 <!---
 tantodefi/tantodefi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
