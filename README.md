@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tantodefi
-- 👀 I’m interested in crypto, web3, DeFi and nfts
+- 👀 I’m interested in crypto, web3, trading algos, DeFi and nfts
 - 🌱 I’m currently learning smart contract security
 - 💞️ I’m looking to collaborate on cool DeFi applications and protocols
 - 📫 You can reach me [here](https://linqapp.com/tanto_defi)
